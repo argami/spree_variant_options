@@ -72,3 +72,7 @@ li.clear-option a.clear-button:hover {
   -khtml-opacity: 0.5;
   opacity: 0.5;
 }
+
+.unavailable {
+    display:none;
+}
